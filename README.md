@@ -1,4 +1,14 @@
-# GIT KING Bot
+<div align="center">
+
+# 🤖 GIT KING Bot
+
+**GitHub repo management, CI workflows, and multi-platform deploys — all from Telegram**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
+[![Made by Mr Syco](https://img.shields.io/badge/made%20by-Mr%20Syco-6E9EFF)](https://github.com/Sycosmile)
+
+</div>
 
 A Telegram bot that puts GitHub repo management, CI workflows, and multi-platform deploys in your chat — browse repos, manage issues/PRs, push files, trigger deployments, and get notified on new activity, all without leaving Telegram.
 
